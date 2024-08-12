@@ -1,0 +1,8 @@
+This Project working on kaggle enviroment, please visit my kaggle site.
+
+Code:
+https://www.kaggle.com/code/dinhphihung/mobilenet-raf/edit
+https://www.kaggle.com/code/hungphidinh/mobilenet-raf
+https://www.kaggle.com/code/hungphidinh/mobiletnet-fer2013
+https://www.kaggle.com/code/hungphidinh/a-mobilenet
+
